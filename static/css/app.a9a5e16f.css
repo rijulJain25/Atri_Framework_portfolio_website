@@ -1,0 +1,201 @@
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/styles.css ***!
+  \******************************************************************************************************************************************************************************************/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*!**************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/form-field.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************/
+.form-field_formfield__MkJga {
+  border: none;
+}
+.form-field_formfield__MkJga:active {
+  outline: #fcd34d solid 1px;
+}
+.form-field_formfield__MkJga:focus-visible {
+  outline: #fcd34d solid 1px;
+}
+
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[4].use[2]!./node_modules/@atrilabs/design-system/lib/stylesheets/button.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+.button_danger__gr6NE {
+  background-color: #be185d;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #fdf2f8;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+.button_cancel__SU3y5 {
+  background-color: #6b7280;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  color: #e5e7eb;
+  padding: 0.5rem 1rem;
+  border: none;
+}
+
+/*!*************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./node_modules/@atrilabs/react-component-manifests/src/manifests/styles.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************/
+
+/*!*************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[0].oneOf[3].use[2]!./app/src/page-css/Home.css ***!
+  \*************************************************************************************************************************************************************************************************/
+.p-Home.Flex8 {
+display: flex;
+align-self: auto;
+justify-content: center;
+padding-top: 40px;
+padding-bottom: 40px;
+}
+.p-Home.Flex2 {
+display: flex;
+justify-content: space-between;
+padding-left: 0px;
+padding-right: 0px;
+width: 80%;
+font-family: IBM Plex Sans;
+font-weight: 600;
+}
+.p-Home.Flex3 {
+display: flex;
+justify-content: flex-start;
+}
+.p-Home.Flex4 {
+display: flex;
+justify-content: flex-start;
+-moz-column-gap: 37px;
+     column-gap: 37px;
+font-size: 17px;
+padding-top: 7px;
+}
+.p-Home.Flex6 {
+display: flex;
+-moz-column-gap: 8px;
+     column-gap: 8px;
+}
+.p-Home.Flex12 {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.p-Home.Flex9 {
+display: flex;
+width: 80%;
+justify-content: space-between;
+align-items: stretch;
+flex-direction: row;
+padding-top: 50px;
+padding-bottom: 20px;
+}
+.p-Home.Flex10 {
+display: flex;
+flex-direction: column;
+padding-top: 15px;
+}
+.p-Home.Flex13 {
+display: flex;
+}
+.p-Home.Flex11 {
+display: flex;
+justify-content: flex-end;
+width: ;
+}
+.p-Home.TextBox1 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 27px;
+}
+.p-Home.TextBox7 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox6 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox5 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox2 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox10 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.TextBox11 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 70px;
+padding-top: 25px;
+word-wrap: normal;
+color: #000000d1;
+}
+.p-Home.TextBox14 {
+font-family: IBM Plex Sans;
+font-size: 21px;
+padding-top: 20px;
+padding-bottom: 40px;
+width: 70%;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+-webkit-user-select: none;
+   -moz-user-select: none;
+        user-select: none;
+box-shadow: -6px 6px 0 brown;
+}
+.p-Home.Button3 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+-webkit-user-select: none;
+   -moz-user-select: none;
+        user-select: none;
+}
+.p-Home.Image1 {
+position: static;
+width: 100%;
+}
+
