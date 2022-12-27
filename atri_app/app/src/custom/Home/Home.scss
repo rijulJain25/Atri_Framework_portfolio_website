@@ -1,0 +1,263 @@
+.p-Home.TextBox180{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 30%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox18{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 30%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox36{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;}
+
+.p-Home.TextBox76{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox103{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox148{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox153{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox181{
+    background: #FF9A36;
+    background: linear-gradient(to left, #FF9A36 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.p-Home.TextBox156{
+    background: #FF9A36;
+    background: linear-gradient(to left, #faab5d 0%, #FF601C 71%, #CB63E0 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+$brown: #404040;
+$blue: #1CD3F8;
+$angle: 8px;
+$angle-o: 4px;
+
+
+.p-Home.Button1 {
+  top: 0;
+  right: 0;
+  transition: all .15s linear 0s;
+  position: relative;
+  display: inline-block;
+  padding: 15px 25px;
+  
+  box-shadow: 6px 6px 0#ec8dff;
+  color: linear-gradient(to left, #faab5d 0%, #FF601C 71%, #CB63E0 100%);
+  text-decoration: none;
+  
+  &:hover {
+    top: 5px;
+    right: -5px;
+    box-shadow: none;
+    
+    &::after {
+      top: 3px;
+      right: -4px;
+      width: $angle-o;
+      height: $angle-o;
+    }
+    
+    &::before {
+      bottom: -4px;
+      left: 3px;
+      width: $angle-o;
+      height: $angle-o;
+    }
+  }
+}
+
+.p-Home.Button5 {
+    top: 0;
+    right: 0;
+    transition: all .15s linear 0s;
+    position: relative;
+    display: inline-block;
+    padding: 15px 25px;
+    
+    box-shadow: 6px 6px 0#ec8dff;
+    color: linear-gradient(to left, #faab5d 0%, #FF601C 71%, #CB63E0 100%);
+    text-decoration: none;
+    
+    &:hover {
+      top: 5px;
+      right: -5px;
+      box-shadow: none;
+      
+      &::after {
+        top: 3px;
+        right: -4px;
+        width: $angle-o;
+        height: $angle-o;
+      }
+      
+      &::before {
+        bottom: -4px;
+        left: 3px;
+        width: $angle-o;
+        height: $angle-o;
+      }
+    }
+}
+
+.p-Home.TextBox2:hover{
+    color: gray;
+}
+
+.p-Home.TextBox5:hover{
+    color: gray;
+}
+
+.p-Home.TextBox6:hover{
+    color: gray;
+}
+
+.p-Home.TextBox7:hover{
+    color: gray;
+}
+
+.p-Home.Image35{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image36{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Flex6:hover{
+    .p-Home.Image35{
+        left: 6px;
+    }
+}
+
+.p-Home.Flex14:hover{
+    .p-Home.Image36{
+        left: 7px;
+    }
+}
+
+.p-Home.Image53{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image57{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image58{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image66{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image67{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image69{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image70{
+    position: relative;
+    left: 0s;
+}
+
+.p-Home.Image71{
+    position: relative;
+    left: 0s;
+}
+
+
+.p-Home.Flex101:hover{
+    .p-Home.Image53{
+        left: 6px;
+    }
+}
+
+
+.p-Home.Flex105:hover{
+    .p-Home.Image57{
+        left: 6px;
+    }
+}
+
+.p-Home.Flex106:hover{
+    .p-Home.Image58{
+        left: 6px;
+    }
+}
+
+.p-Home.Flex124:hover{
+    .p-Home.Image66{
+        left: 6px;
+    }
+}
+
+.p-Home.Flex125:hover{
+    .p-Home.Image67{
+        left: 6px;
+    }
+}
+
+.p-Home.Flex126:hover{
+    .p-Home.Image69{
+        left: 6px;
+    }
+}
+
+
+.p-Home.Flex127:hover{
+    .p-Home.Image70{
+        left: 6px;
+    }
+}
+
+
+.p-Home.Flex128:hover{
+    .p-Home.Image71{
+        left: 6px;
+    }
+}
